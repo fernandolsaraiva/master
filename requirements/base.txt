@@ -1,0 +1,11 @@
+dateparser
+numpy==1.23.5
+pandas==1.5.3
+datetime
+matplotlib
+sktime
+hydroeval
+optuna
+scikit-learn
+xgboost
+seaborn
