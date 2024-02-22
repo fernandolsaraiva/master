@@ -16,3 +16,7 @@ A análise do percentual de dados faltantes foi feita em planilha separada.
 # Qualification
 Esse foi o notebook usado para gerar os dados da qualificação
 
+
+Observações sobre os requirements:
+1. Para instalar o LightGBM no Mac, foi necessário primeiro usar o seguinte comando no terminal:  brew install libomp. E para o comando anterior funcionar, foi necessário o seguinte: Install the Command Line Tools: xcode-select --install.
+
