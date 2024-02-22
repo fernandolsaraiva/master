@@ -8,4 +8,6 @@ hydroeval
 optuna
 scikit-learn
 xgboost
+lightgbm
+catboost
 seaborn
