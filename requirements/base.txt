@@ -7,8 +7,12 @@ sktime
 hydroeval
 optuna
 scikit-learn
-xgboost
-lightgbm
-catboost
+xgboost==2.0.0
+lightgbm==4.3.0
+catboost==1.2.2
 seaborn
 shap
+ipykernel
+nbformat
+fasttreeshap
+torch==1.13.1
