@@ -17,3 +17,4 @@ nbformat
 fasttreeshap
 torch==1.13.1
 statsmodels
+mapie
